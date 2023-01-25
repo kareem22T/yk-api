@@ -46,4 +46,7 @@ return [
     'footer_title' => 'We are waiting for you to fulfill your dream',
     'footer_sub_title' => 'that is all!',
 
+    'cookie_title' => 'We use cookies',
+    'cookie_content' => 'This site use cookies to ensure you have the best experince',
+    'cookie_btn' => 'Accept cookies'
 ];

@@ -63,6 +63,11 @@ class MainController extends Controller
                 'title' => __('main.footer_title'),
                 'sub_title' => __('main.footer_sub_title'),
             ],
+            'cookies' => [
+                'title' => __('main.cookie_title'),
+                'content' => __('main.cookie_content'),
+                'btn' => __('main.cookie_btn'),
+            ],
         ];
         return $this->returnData('home', $data, $request->lang);
     }
