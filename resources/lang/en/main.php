@@ -16,6 +16,7 @@ return [
     'latest_1_des' => 'GYM',
     'latest_2_des' => 'offers app',
     'latest_3_des' => 'men fashion',
+    'latest_4_des' => 'tourism compony',
 
     'why_us_title' => 'why us?',
     'why_us_1' => 'Fully responsive, custom designed',

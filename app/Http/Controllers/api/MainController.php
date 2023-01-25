@@ -37,6 +37,7 @@ class MainController extends Controller
                 'gympo' => __('main.latest_1_des'),
                 'off' => __('main.latest_2_des'),
                 'mammoth' => __('main.latest_3_des'),
+                'pharoto' => __('main.latest_4_des'),
             ],
             'why_us' => [
                 'title' => __('main.why_us_title'),
